@@ -63,7 +63,7 @@ The plot below shows:
 ![Portfolio Risk Distribution](portfolio_risk_distribution.png)
 
 
-## Technologies Used
+## Used libraries
 
 - Python  
 - NumPy  
