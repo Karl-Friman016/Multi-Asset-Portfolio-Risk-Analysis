@@ -1,4 +1,4 @@
-# Multi-Asset-Portfolio-Risk-Analysis
+
 # Multi-Asset Portfolio Risk Analysis (VaR & CVaR)
 
 This project analyzes downside risk in a multi-asset portfolio using Value at Risk (VaR) and Expected Shortfall (CVaR). It compares empirical (historical) risk estimates with model-based estimates using a fitted t-distribution to capture fat-tailed behavior in financial returns.
